@@ -1,1 +1,1 @@
-# pseudocodicos
+# pseudocodigos
